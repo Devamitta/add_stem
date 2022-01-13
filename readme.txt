@@ -1,0 +1,1 @@
+this programm add stem and patterns to existing data base, which follows DPD structre
